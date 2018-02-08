@@ -69,9 +69,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(212, 228);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 26);
+            this.label4.Size = new System.Drawing.Size(58, 26);
             this.label4.TabIndex = 3;
-            this.label4.Text = "label4";
+            this.label4.Text = "label";
             // 
             // Form1
             // 
@@ -82,7 +82,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
